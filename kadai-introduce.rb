@@ -1,14 +1,14 @@
 #苗字
-LastName = '小助川'
+lastName = '小助川'
 
 #名前
-FirstName = 'ルル'
+firstName = 'ルル'
 
 #年齢
-Age = 6
+age = 6
 
 #自己紹介するプログラム
-puts LastName + FirstName + 'です。' + Age.to_s + '歳です。'
+puts lastName + firstName + 'です。' + age.to_s + '歳です。'
 
 
 
